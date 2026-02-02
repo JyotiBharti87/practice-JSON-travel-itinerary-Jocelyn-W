@@ -1,0 +1,91 @@
+{
+    "tripName": "Tennesse Waterfall Tour",
+    "traveler": {
+        "name": "Jill Sanchez",
+        "contact": {
+            "email": "jsanchez@blahblah.com",
+            "phone": "555-555-1234"
+        }
+    },
+    "destinations": [
+        {
+            "location": "Fall Creek Falls State Park, Spencer, TN",
+            "arrivalDate": "2026-06-10",
+            "departureDate": "2026-06-11",
+            "activities": [
+                {
+                    "title": "Scenic Overlook Walk at Fall Creek Falls",
+                    "time": "9:00 AM"
+                },
+                {
+                    "title": "Hiking to Base of Fall Creek Falls",
+                    "time": "11:00 AM"
+                },
+                {
+                    "title": "Photography Session at Fall Creek Falls",
+                    "time": "3:00 PM"
+                }
+            ]
+        },
+        {
+            "location": "Cummins Falls State Park, Cookeville, TN",
+            "arrivalDate": "2026-06-11",
+            "departureDate": "2026-06-12",
+            "activities": [
+                {
+                    "title": "Hike to Cummins Falls",
+                    "time": "10:00 AM"
+                },
+                {
+                    "title": "Swimming at Cummins Falls",
+                    "time": "1:00 PM"
+                }
+            ]
+        },
+        {
+            "location": "Burgess Falls State Park, Sparta, TN",
+            "arrivalDate": "2026-06-12",
+            "departureDate": "2026-06-13",
+            "activities": [
+                {
+                    "title": "River Overlook Trail to Burgess Falls",
+                    "time": "9:30 AM"
+                },
+                {
+                    "title": "Waterfall Viewing at Burgess Falls",
+                    "time": "12:00 PM"
+                }
+            ]
+        },
+        {
+            "location": "Laurel Falls, Great Smoky Mountains National Park",
+            "arrivalDate": "2026-06-13",
+            "departureDate": "2026-06-14",
+            "activities": [
+                {
+                    "title": "Paved Trail Hike to Laurel Falls",
+                    "time": "10:00 AM"
+                },
+                {
+                    "title": "Family Photo Stop at Laurel Falls",
+                    "time": "1:30 PM"
+                }
+            ]
+        },
+        {
+            "location": "Abrams Falls, Great Smoky Mountains National Park",
+            "arrivalDate": "2026-06-14",
+            "departureDate": "2026-06-15",
+            "activities": [
+                {
+                    "title": "Moderate Trail Hike to Abrams Falls",
+                    "time": "9:00 AM"
+                },
+                {
+                    "title": "Creekside Lunch near Abrams Falls",
+                    "time": "12:30 PM"
+                }
+            ]
+        }
+    ]
+}
