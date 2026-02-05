@@ -12,6 +12,10 @@
             "location": "Fall Creek Falls State Park, Spencer, TN",
             "arrivalDate": "2026-06-10",
             "departureDate": "2026-06-11",
+            "transportation": {
+                "mode": "Flight",
+                "cost": 390.00
+            },
             "activities": [
                 {
                     "title": "Scenic Overlook Walk at Fall Creek Falls",
@@ -28,39 +32,13 @@
             ]
         },
         {
-            "location": "Cummins Falls State Park, Cookeville, TN",
-            "arrivalDate": "2026-06-11",
-            "departureDate": "2026-06-12",
-            "activities": [
-                {
-                    "title": "Hike to Cummins Falls",
-                    "time": "10:00 AM"
-                },
-                {
-                    "title": "Swimming at Cummins Falls",
-                    "time": "1:00 PM"
-                }
-            ]
-        },
-        {
-            "location": "Burgess Falls State Park, Sparta, TN",
-            "arrivalDate": "2026-06-12",
-            "departureDate": "2026-06-13",
-            "activities": [
-                {
-                    "title": "River Overlook Trail to Burgess Falls",
-                    "time": "9:30 AM"
-                },
-                {
-                    "title": "Waterfall Viewing at Burgess Falls",
-                    "time": "12:00 PM"
-                }
-            ]
-        },
-        {
             "location": "Laurel Falls, Great Smoky Mountains National Park",
             "arrivalDate": "2026-06-13",
             "departureDate": "2026-06-14",
+            "transportation": {
+                "mode": "Car",
+                "cost": 190.00
+            },
             "activities": [
                 {
                     "title": "Paved Trail Hike to Laurel Falls",
@@ -76,6 +54,10 @@
             "location": "Abrams Falls, Great Smoky Mountains National Park",
             "arrivalDate": "2026-06-14",
             "departureDate": "2026-06-15",
+            "transportation": {
+                "mode": "train",
+                "cost": 60.00
+            },
             "activities": [
                 {
                     "title": "Moderate Trail Hike to Abrams Falls",
@@ -84,6 +66,25 @@
                 {
                     "title": "Creekside Lunch near Abrams Falls",
                     "time": "12:30 PM"
+                }
+            ]
+        },
+        {
+            "location": "Sophia Lynn Miller, TN",
+            "arrivalDate": "2026-06-16",
+            "departureDate": "2026-06-20",
+            "transportation": {
+                "mode": "Car",
+                "cost": 90.00
+            },
+            "activities": [
+                {
+                    "title": "Hike to Sophia Lynn Miller",
+                    "time": "10:00 AM"
+                },
+                {
+                    "title": "Bird watching Sophia Lynn Miller",
+                    "time": "1:00 PM"
                 }
             ]
         }
